@@ -241,7 +241,7 @@
   {
    "fieldname": "amazon_fields_map",
    "fieldtype": "Table",
-   "label": "Amazon - ERPNext Item Field Map",
+   "label": "Amazon - OneHash Item Field Map",
    "options": "Amazon Fields Map"
   },
   {

@@ -223,7 +223,7 @@
   {
    "fieldname": "html_16",
    "fieldtype": "HTML",
-   "options": "Map Shopify Taxes / Shipping Charges to ERPNext Account"
+   "options": "Map Shopify Taxes / Shipping Charges to OneHash Account"
   },
   {
    "fieldname": "taxes",
@@ -235,20 +235,20 @@
   {
    "fieldname": "erpnext_to_shopify_sync_section",
    "fieldtype": "Section Break",
-   "label": "ERPNext to Shopify Sync"
+   "label": "OneHash to Shopify Sync"
   },
   {
    "default": "0",
    "fieldname": "upload_erpnext_items",
    "fieldtype": "Check",
-   "label": "Upload new ERPNext Items to Shopify"
+   "label": "Upload new OneHash Items to Shopify"
   },
   {
    "default": "0",
    "depends_on": "eval:doc.upload_erpnext_items",
    "fieldname": "update_shopify_item_on_update",
    "fieldtype": "Check",
-   "label": "Update Shopify Item after updating ERPNext item"
+   "label": "Update Shopify Item after updating OneHash item"
   },
   {
    "depends_on": "eval:doc.update_erpnext_stock_levels_to_shopify",
@@ -273,7 +273,7 @@
    "default": "0",
    "fieldname": "update_erpnext_stock_levels_to_shopify",
    "fieldtype": "Check",
-   "label": "Update ERPNext stock levels to Shopify"
+   "label": "Update OneHash stock levels to Shopify"
   },
   {
    "default": "0",
@@ -336,7 +336,7 @@
    "description": "Caution: Only 3 attributes will be accepted by Shopify",
    "fieldname": "upload_variants_as_items",
    "fieldtype": "Check",
-   "label": "Upload ERPNext Variants as Shopify Items"
+   "label": "Upload OneHash Variants as Shopify Items"
   },
   {
    "default": "0",

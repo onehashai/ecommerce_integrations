@@ -14,7 +14,7 @@
    "fieldname": "erpnext_warehouse",
    "fieldtype": "Link",
    "in_list_view": 1,
-   "label": "ERPNext Warehouse",
+   "label": "OneHash Warehouse",
    "options": "Warehouse"
   },
   {
