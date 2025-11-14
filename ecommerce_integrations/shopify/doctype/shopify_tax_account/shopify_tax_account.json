@@ -25,7 +25,7 @@
    "fieldname": "tax_account",
    "fieldtype": "Link",
    "in_list_view": 1,
-   "label": "ERPNext Account",
+   "label": "OneHash Account",
    "options": "Account",
    "reqd": 1
   },

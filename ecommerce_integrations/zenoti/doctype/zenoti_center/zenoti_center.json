@@ -49,7 +49,7 @@
   {
    "fieldname": "erpnext_cost_center",
    "fieldtype": "Link",
-   "label": "ERPNext Cost Center",
+   "label": "OneHash Cost Center",
    "options": "Cost Center"
   },
   {
@@ -59,7 +59,7 @@
   {
    "fieldname": "erpnext_warehouse",
    "fieldtype": "Link",
-   "label": "ERPNext Warehouse",
+   "label": "OneHash Warehouse",
    "options": "Warehouse"
   },
   {
